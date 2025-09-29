@@ -59,3 +59,9 @@ Medical-OOD-Robustness/
    python train.py --config configs/baseline.yaml
    ```
 ## Preliminary Results
+
+## Contributing
+This is a research project in active development. Discussions, issues, and suggestions are welcome!
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
