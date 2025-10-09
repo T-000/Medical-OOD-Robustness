@@ -1,6 +1,6 @@
-# 3D Medical Imaging Visualization Platform
+# Medical Imaging Slice Viewer
 
-A comprehensive visualization tool for exploring 3D medical imaging data and AI segmentation results. This platform enables interactive exploration of kidney CT scans with model predictions and expert annotations.
+This project provides a **multi-planar visualization tool** for exploring 3D medical imaging volumes through 2D slice navigation. While it operates on 3D volumetric data (128×512×512 CT scans), the primary interface displays 2D slices with the capability to navigate through the entire volume.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
