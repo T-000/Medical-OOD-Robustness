@@ -5,6 +5,17 @@ A comprehensive visualization tool for exploring 3D medical imaging data and AI 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
+
+## Project Status : Paused
+This project is currently paused due to computational constraints. The current implementation runs on CPU-only environments, which makes model retraining and extensive experimentation prohibitively time-consuming. The codebase remains available for reference and can be used with pre-trained models for inference tasks.
+
+## Future Development
+When computational resources become available, planned improvements include:
+- GPU-accelerated training and inference
+- Model performance optimization
+- Additional visualization features
+- Extended dataset support
+
 ## Project Overview
 
 This project provides an intuitive interface for visualizing 3D medical imaging data, specifically designed for kidney CT scans from the KITS23 dataset. It allows researchers and medical professionals to explore imaging data, compare AI model predictions with ground truth annotations, and understand model behavior through interactive visualization.
